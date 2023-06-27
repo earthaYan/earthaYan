@@ -12,6 +12,11 @@
 - 👩‍🎓 I wanna to be a Time Lord someday,LOL,with my own Tardis
 - 📫 How to reach me: yueyueyan1215@163.com
 ---
-
+### Frontend Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,webpack)](https://skillicons.dev)
+### Backend Skills
+[![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev)
+---
 <a href="#"><img src="https://github-readme-stats-crlnmfdzg-tifan.vercel.app/api?username=earthaYan&count_private=true&show_icons=true" height="160" /></a>
 <a href="#"><img src="https://github-readme-stats-crlnmfdzg-tifan.vercel.app/api/top-langs/?username=earthaYan&langs_count=8&layout=compact" height="160"/></a>
+
