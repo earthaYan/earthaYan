@@ -8,8 +8,8 @@
 - 🔭 I’m currently working on ShangHai,China as a frontend engineer
 - 🌱 I’m currently learning GoLang and something about backend
 - 🤔 I’m looking for help with mysql
-- 🎁 Actually I'm  also a Whovian!!!,and the gift I want most is Tardis
-- 👩‍🎓 I wanna to be a Time Lord someday,LOL
+- 🎁 Actually I'm  also a Whovian!!!
+- 👩‍🎓 I wanna to be a Time Lord someday,LOL,with my own Tardis
 - 📫 How to reach me: yueyueyan1215@163.com
 ---
 
