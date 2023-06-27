@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **earthaYan/earthaYan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/earthaYan/earthaYan/blob/main/3072.webp">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/earthaYan/earthaYan/blob/main/3072.webp">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/earthaYan/earthaYan/blob/main/3072.webp">
+</picture>
